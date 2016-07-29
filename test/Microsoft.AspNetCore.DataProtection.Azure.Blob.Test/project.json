@@ -1,12 +1,12 @@
 {
   "dependencies": {
     "System.Runtime.InteropServices.RuntimeInformation": "4.0.0-*",
-    "dotnet-test-xunit": "1.0.0-*",
+    "dotnet-test-xunit": "2.2.0-*",
     "Microsoft.AspNetCore.DataProtection": "1.1.0-*",
-    "Microsoft.AspNetCore.DataProtection.Azure": "1.1.0-*",
+    "Microsoft.AspNetCore.DataProtection.Azure.Blob": "1.1.0-*",
     "Microsoft.AspNetCore.Testing": "1.1.0-*",
     "Microsoft.Extensions.DependencyInjection": "1.1.0-*",
-    "xunit": "2.1.0"
+    "xunit": "2.2.0-*"
   },
   "frameworks": {
     "netcoreapp1.0": {
